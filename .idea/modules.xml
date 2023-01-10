@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/automobile-system.iml" filepath="$PROJECT_DIR$/.idea/automobile-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-rest-customer-example/bootcoding-discount-system/bootcoding-discount-system.iml" filepath="$PROJECT_DIR$/spring-rest-customer-example/bootcoding-discount-system/bootcoding-discount-system.iml" />
     </modules>
   </component>
 </project>
