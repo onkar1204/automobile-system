@@ -26,6 +26,5 @@ public class DiscountCalculator {
 
         return 0;
 
-
     }
 }
