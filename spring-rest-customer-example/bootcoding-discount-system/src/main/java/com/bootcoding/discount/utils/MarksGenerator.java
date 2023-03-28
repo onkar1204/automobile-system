@@ -4,6 +4,7 @@ import java.util.Random;
 
 public class MarksGenerator {
     final static int MAX = 80;
+
     final static int MIN = 10;
     static Random random = new Random();
 
